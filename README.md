@@ -144,6 +144,6 @@ This approach reflects core principles used in investment management, risk advis
 [Click here to view the live dashboard](http://localhost:8501/)
 
 ## Dashboard Preview
+**<img width="500" height="300" alt="image" src="Dashboard_overview.png" />**
+<img width="500" height="300" alt="image" src="Optimization_view.png" />
 
-![Overview]("Dashboard_overview.png")
-![Optimization]("Optimization_view.png")
