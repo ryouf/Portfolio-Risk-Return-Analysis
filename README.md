@@ -143,5 +143,5 @@ This approach reflects core principles used in investment management, risk advis
 
 ## Dashboard Preview
 
-![Overview]("C:\Users\Bander\OneDrive\الصور\لقطات الشاشة\Dashboard_overview.png")
+![Overview]("Dashboard_overview.png")
 ![Optimization]("Optimization_view.png")
