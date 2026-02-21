@@ -140,6 +140,8 @@ The analysis demonstrates that optimal capital allocation emerges not from chasi
 This approach reflects core principles used in investment management, risk advisory, and asset allocation strategy development.
 
 ---
+## Live Dashboard Link
+[Click here to view the live dashboard](http://localhost:8501/)
 
 ## Dashboard Preview
 
