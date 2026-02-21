@@ -43,15 +43,15 @@ Daily returns were calculated using percentage change in adjusted closing prices
 
 Annualized return was computed using geometric compounding:
 
-\[
+$$
 (1 + \bar{r}_{daily})^{252} - 1
-\]
+$$
 
 Volatility was annualized using:
 
-\[
+$$
 \sigma_{daily} \times \sqrt{252}
-\]
+$$
 
 A standard assumption of 252 trading days per year was applied.
 
@@ -61,9 +61,9 @@ A standard assumption of 252 trading days per year was applied.
 
 Sharpe ratio was calculated as:
 
-\[
+$$
 \frac{R_p - R_f}{\sigma_p}
-\]
+$$
 
 Where:
 - \( R_p \) = Expected annual portfolio return  
